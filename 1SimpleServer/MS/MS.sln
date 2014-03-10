@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{030DA6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeliosSample", "HeliosSample\HeliosSample.csproj", "{E05CEE5D-1F71-4738-81A7-E224955E7A21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWINKatanaSample", "OWINKatanaSample\OWINKatanaSample.csproj", "{5C7D326C-4B03-4DF9-9528-541474E278CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWINKatanaHostSample", "OWINKatanaHostSample\OWINKatanaHostSample.csproj", "{E8B5759C-0768-47D0-A9E6-FAC0FB78993A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +38,14 @@ Global
 		{E05CEE5D-1F71-4738-81A7-E224955E7A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05CEE5D-1F71-4738-81A7-E224955E7A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05CEE5D-1F71-4738-81A7-E224955E7A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7D326C-4B03-4DF9-9528-541474E278CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7D326C-4B03-4DF9-9528-541474E278CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7D326C-4B03-4DF9-9528-541474E278CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7D326C-4B03-4DF9-9528-541474E278CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B5759C-0768-47D0-A9E6-FAC0FB78993A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B5759C-0768-47D0-A9E6-FAC0FB78993A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B5759C-0768-47D0-A9E6-FAC0FB78993A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B5759C-0768-47D0-A9E6-FAC0FB78993A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
